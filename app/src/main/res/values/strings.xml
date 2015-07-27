@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">notepad_example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="addNoteString">Add Note</string>
+    <string name="no_notes">No Notes Yet</string>
+    <string name="saveString">Save</string>
+</resources>
